@@ -25,3 +25,5 @@ To use as a Windows context menu option:
   * "location_of_python_3_executable" "location_of_folderize_script" %1
  
  Now you should be able to right click any file and easily move it into a folder of its own.
+
+Additionally, the script logs it's actions so that you can undo anything you happen to do by accident.  By default the log location is set to "C:\Scripts\folderize.log" but you can change it to whatever you like.
