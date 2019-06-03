@@ -15,7 +15,7 @@ To use as a Windows context menu option:
 * Put "folderize.py" into a folder of your choosing.
 * Open the registry by right clicking the start icon and selecting run.
 * Type "regedit" and click ok
-* Browse to "HKEY_CLASSES_ROOT\*\shell
+* Browse to "HKEY_CLASSES_ROOT\\*\shell
 * Right click on shell and add a new key
 * Rename the new key to what you would like the context menu option to be, I choose "Folderize".
 * Right click the new key and select new key.
